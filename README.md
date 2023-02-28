@@ -1,5 +1,7 @@
 # Cardiovascular_Risk_Prediciton
 Heart Disease Prediction app using machine learning
+
+Web app :- https://puneet-suthar-heart-disease-prediction-chd-uga9p9.streamlit.app/
  
 # Abstract:
 Cardiovascular diseases, also known as CVDs, are responsible for the highest number of fatalities worldwide, resulting in an estimated 17.9 million deaths annually. This group of disorders affects the heart and blood vessels, including coronary heart disease, cerebrovascular disease, rheumatic heart disease, and other ailments. Heart attacks and strokes account for over 80% of all CVD-related deaths, and a significant portion of these fatalities occur prematurely in individuals under the age of 70. Unhealthy diet, physical inactivity, tobacco usage, and excessive alcohol consumption are the primary behavioral risk factors for heart disease and stroke. These risk factors may cause high blood pressure, high blood glucose, high blood lipids, overweight, and obesity in individuals.
